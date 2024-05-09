@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Potato",
+        "grams": 173,
+        "calories": 164,
+        "carbohydrate": 37,
+        "sugars": 1.9,
+        "fat": 0.2,
+        "protein": 4.6,
+        "tags": ["vegetable", "carbohydrate"]
+    },
+    {
+        "name": "Tomato",
+        "grams": 91,
+        "calories": 16,
+        "carbohydrate": 3.5,
+        "sugars": 2.4,
+        "fat": 0.2,
+        "protein": 0.8,
+        "tags": ["vegetable", "acidic", "pollen"]    
+    },
+    {
+        "name": "Chicken",
+        "grams": 70,
+        "calories": 135,
+        "carbohydrate": 0,
+        "sugars": 0,
+        "fat": 7.5,
+        "protein": 16.9,
+        "tags": ["meat", "protein"]    
+    }
+]
